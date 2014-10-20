@@ -1,0 +1,3 @@
+[submodule "bidiweb"]
+	path = bidiweb
+	url = https://github.com/hasenj/bidiweb.git
