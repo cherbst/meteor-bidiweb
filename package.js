@@ -1,7 +1,7 @@
 Package.describe({
   name: 'cherbst:bidiweb',
   summary: 'Bidiweb packaged for Meteor',
-  version: '1.0.1',
+  version: '1.0.2',
   git: 'https://github.com/cherbst/meteor-bidiweb.git'
 });
 
